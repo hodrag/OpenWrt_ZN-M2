@@ -6,7 +6,7 @@ echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf
 #echo 'src-git Rinze https://github.com/Lancet-z/luci-theme-Rinze.git' >>feeds.conf.default
 
 #istore
-echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.default
+echo 'src-git istore https://github.com/linkease/istore' >> feeds.conf.default
 
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
@@ -18,7 +18,7 @@ echo 'src-git telephony https://git.openwrt.org/feed/telephony.git' >> feeds.con
 echo 'src-git pwluci https://github.com/homelede/openwrt-passwall.git;luci' >> feeds.conf.default
 echo 'src-git pw https://github.com/homelede/openwrt-passwall.git;packages' >> feeds.conf.default
 echo 'src-git xiaoqingfeng https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng' >> feeds.conf.default
-echo 'src-git lienol https://github.com/homelede/openwrt-package.git;main' >> feeds.conf.default
+echo 'src-git lienol https://github.com/homelede/openwrt-package.git' >> feeds.conf.default
 # luci-theme-infinityfreedom
 echo 'src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' >> feeds.conf.default
 # strongswanInDocker
